@@ -1,9 +1,12 @@
 # Python for life science
 
- <table style="width:100%">
+<table style="width:100%">
   <tr>
-    <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
-    <tr/>
+    <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150">
+    </td>
+    <td><img src="./img/GTPB2015logo.png" alt="yay" height="100" width="150">
+    </td>
+  <tr/>
 </table>
 
 

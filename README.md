@@ -4,7 +4,7 @@
   <tr>
     <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150">
     </td>
-    <td><img src="./img/GTPB2015logo.png" alt="yay" height="100" width="150">
+    <td><img src="./img/GTPB2015logo.png" alt="yay" height="100" width="250">
     </td>
   <tr/>
 </table>

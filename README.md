@@ -4,7 +4,7 @@
   <tr>
     <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150">
     </td>
-    <td><img src="./img/GTPB2015logo.png" alt="yay" height="100" width="150">
+    <td><img src="./img/GTPB2015logo.png" alt="yay" height="100" width="250">
     </td>
   <tr/>
 </table>
@@ -12,7 +12,19 @@
 
 
 
-Python is an object-oriented programming language that is ideal for biological data analysis. The course will start from zero knowledge, and will introduce the participants to all the basic concepts of Python such as calculating, organizing data, reading and writing files, program logic and writing larger programs. All the examples and practical sessions will focus on solving biological problems. In particular the sessions will cover:
+Python is a programming language that is ideal for many aspects of biological data analysis.
+
+This course aims to provide a basic introduction to the  ...
+
+what ... 
+understanding of why/where  ....
+good grrief this needs some thought!
+progress by instinct ... summarise ... repeat edit until done?
+not ideal, but practical methinks
+
+will assume no prior programming experience.
+
+, and will introduce the participants to all the basic concepts of Python such as calculating, organizing data, reading and writing files, program logic and writing larger programs. All the examples and practical sessions will focus on solving biological problems. In particular the sessions will cover:
 
     - working with DNA and protein sequences
     - data retrieval from files and their manipulation

@@ -25,7 +25,7 @@ https://b.socrative.com/login/student/
 
 [Unix Setup Quizz](https://b.socrative.com/login/student){:target="_blank"}
 
-
+<a href="https://b.socrative.com/login/student/" target="_blank">Unix Setup Quizz<a>
 
 
 

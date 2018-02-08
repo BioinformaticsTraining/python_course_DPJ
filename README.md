@@ -22,7 +22,13 @@ Every effort to use only software that is also available under Windows has been 
 UNIX/Setup
 
 https://b.socrative.com/login/student/
-https://b.socrative.com/login/student//" target="_blank"
+
+[a link](http://b.socrative.com/login/student/){:target="_blank" xxxxx}
+
+
+
+
+
 
 
 Login to Room 32COU

@@ -9,7 +9,7 @@
   <tr/>
 </table>
 
-# Assumptions
+## Assumptions
 
 Standard  Linux
 Spyder?
@@ -17,13 +17,12 @@ Python 2.?
 
 Every effort to use only software that is also available under Windows has been made.
 
-# Foreplay
+## Foreplay
 
 UNIX/Setup
 
 https://b.socrative.com/login/student/
-
-<a href="https://b.socrative.com/login/student//" target="_blank"></a>
+https://b.socrative.com/login/student//" target="_blank"
 
 
 Login to Room 32COU

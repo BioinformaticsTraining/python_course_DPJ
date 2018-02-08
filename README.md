@@ -23,7 +23,7 @@ UNIX/Setup
 
 https://b.socrative.com/login/student/
 
-[a link](http://b.socrative.com/login/student/){:target="_blank" xxxxx}
+[Unix Setup Quizz](http://b.socrative.com/login/student/){:target="_blank"}
 
 
 

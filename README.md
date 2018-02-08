@@ -23,6 +23,9 @@ UNIX/Setup
 
 https://b.socrative.com/login/student/
 
+<a href="https://b.socrative.com/login/student//" target="_blank">b.socrative.com</a>
+
+
 Login to Room 32COU
 
 Python Interpretter ... use as a calculator

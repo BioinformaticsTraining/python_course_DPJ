@@ -4,19 +4,31 @@
   <tr>
     <td><img src="./Images/elixir_ita_logo.png" alt="yay" height="100" width="150">
     </td>
-    <td><img src="./images/GTPB2015logo.png" alt="yay" height="100" width="250">
+    <td><img src="./Images/GTPB2015logo.png" alt="yay" height="100" width="250">
     </td>
   <tr/>
 </table>
 
+Assumptions
 
+Standard  Linux
+Spyder?
+Python 2.?
 
+Every effort to use only software that is also available under Windows has been made.
+
+Foreplay
+
+UNIX/Setup
 
 https://b.socrative.com/login/student/
 
+Login to Room 32COU
+
+Python Interpretter ... use as a calculator
 
 
-
+===================================
 R4 puzzle 98
 
 * ** *** ----- odd target

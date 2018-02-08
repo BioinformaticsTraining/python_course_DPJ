@@ -12,6 +12,38 @@
 
 
 
+https://b.socrative.com/login/student/
+
+
+
+
+R4 puzzle 98
+
+* ** *** ----- odd target
+
+5 possible moves
+Have to leave * *
+
+So
+
+* * ***
+       * ***  ---- * *
+       * * *  ---- * * 
+       * * ** ---- * *
+So answer is to eat an orange
+Pretty sure that is correct, but ... no story!
+no story = no answer = no pattern = no rhyme
+4 out of 10 ... wonder what official ansewr is?
+Unavailble!! I complain to Jihn Humphreys!
+
+
+
+
+
+
+
+
+**********************************************************
 Python is a programming language that is ideal for many aspects of biological data analysis.
 
 This course aims to provide a basic introduction to the  ...

@@ -38,8 +38,9 @@ Login to Room 32COU
 
 <object data="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf">Download PDF</a>.</p>
-    </embed
+       <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf">Click here for a CheatSheet
+       </a>
+    </embed>
 
 [embed]https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf[/embed]
 

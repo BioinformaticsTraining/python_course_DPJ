@@ -41,6 +41,11 @@ Login to Room 32COU
        <a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf">Click here for a CheatSheet
        </a>
     </embed>
+</object>
+
+
+<a href="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf">Click here for a CheatSheet</a>
+
 
 [embed]https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf[/embed]
 

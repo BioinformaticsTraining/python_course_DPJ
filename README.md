@@ -33,6 +33,10 @@ https://b.socrative.com/login/student/
 
 Login to Room 32COU
 
+#[embed]./Documemts/file.pdf[/embed]
+
+[embed]https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf[/embed]
+
 Python Interpretter ... use as a calculator
 
 
